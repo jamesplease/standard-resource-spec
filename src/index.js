@@ -1,0 +1,3 @@
+const resourcesStore = {};
+
+const requestStore = {};
