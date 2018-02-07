@@ -1,0 +1,6 @@
+export default {
+  IDLE: 'IDLE',
+  PENDING: 'PENDING',
+  FAILED: 'FAILED',
+  SUCCEEDED: 'SUCCEEDED'
+};
