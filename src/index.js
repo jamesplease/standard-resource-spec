@@ -1,3 +1,9 @@
-const resourcesStore = {};
+import requestStatuses from './request-statuses';
+import createStore from './create-store';
+import aggregateStatuses from './utils/aggregate-statuses';
 
-const requestStore = {};
+export {
+  requestStatuses,
+  aggregateStatuses,
+  createStore
+};
